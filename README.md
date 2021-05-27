@@ -8,7 +8,6 @@ This website is about a weather dashboard where it provides a form in which the 
 ## Built With
 * HTML
 * CSS variables
-* MediaQueries
 * JavaScript
 * jQuery
 * local Storage
@@ -17,9 +16,8 @@ This website is about a weather dashboard where it provides a form in which the 
 ---
 
 ## Screenshot
-![Screenshot 1](./assets/images/Screenshot1.png)
-![Screenshot 2](./assets/images/Screenshot2.png)
-![Screenshot 3](./assets/images/Screenshot3.png)
+![Screenshot 1](./assets/image/Sreenshot.png)
+
 
 ---
 
